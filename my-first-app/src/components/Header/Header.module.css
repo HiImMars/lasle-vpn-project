@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navMenu {
+  display: flex;
+  gap: 20px;
+}
+
+.buttonsMenu {
+  display: flex;
+  gap: 20px;
+}
